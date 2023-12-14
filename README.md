@@ -13,3 +13,8 @@ Melakukan pengujian keamanan pada FTP target yang disediakan oleh HackTheBox dan
 + Mengidentifikasi dan mengevaluasi potensi kerentanan keamanan.
 + Melakukan uji penetrasi dengan menggunakan nmap untuk port scanning.
 + Memberikan rekomendasi perbaikan untuk meningkatkan keamanan layanan FTP.
+
+[Project 3 : OhSINT TryHackMe](OhSINT.pdf)
+---
+Bertujuan untuk mengasah keterampilan Open Source Intelligence (OSINT) dalam konteks keamanan siber. Saya mengeksplorasi teknik-teknik OSINT untuk mengumpulkan dan menganalisis informasi terbuka dari berbagai sumber. Fokus utama kasus ini adalah meningkatkan pemahaman saya tentang bagaimana entitas atau individu dapat meninggalkan jejak digital yang dapat digunakan untuk analisis keamanan. Saya menggunakan berbagai alat dan teknik OSINT, waggle.net, exiftools, analisis media sosial, dan penggunaan sumber daya terbuka lainnya.
+Saya juga mendokumentasikan metodologi yang saya terapkan dan menghasilkan laporan yang jelas dan terstruktur mengenai temuan OSINT. Dalam hal ini membantu meningkatkan keterampilan analisis saya dalam pengumpulan informasi terbuka dan memperdalam pemahaman saya tentang jejak digital yang dapat dieksploitasi untuk tujuan keamanan siber.
